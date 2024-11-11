@@ -70,12 +70,10 @@
 
 Затем **microk8s kubectl apply -f multitool-app.yaml**
 
-<img width="356" alt="Add pod for multitool" src="https://github.com/user-attachments/assets/5e0f0055-e002-4325-9874-916f78c91aeb">
-<img width="520" alt="Access to app" src="https://github.com/user-attachments/assets/0a492f14-a0f7-477f-bffa-e1f197b093ec">
-
-<img width="525" alt="Access to app1" src="https://github.com/user-attachments/assets/0b36574e-f54c-4c64-a0c0-0e8eaacb6db7">
-
-<img width="748" alt="curl access app" src="https://github.com/user-attachments/assets/692f9e53-3f40-444d-b5ba-dee9572300a6">
+1. <img width="356" alt="Add pod for multitool" src="https://github.com/user-attachments/assets/5e0f0055-e002-4325-9874-916f78c91aeb">
+2. <img width="520" alt="Access to app" src="https://github.com/user-attachments/assets/0a492f14-a0f7-477f-bffa-e1f197b093ec">
+3. <img width="525" alt="Access to app1" src="https://github.com/user-attachments/assets/0b36574e-f54c-4c64-a0c0-0e8eaacb6db7">
+4. <img width="748" alt="curl access app" src="https://github.com/user-attachments/assets/692f9e53-3f40-444d-b5ba-dee9572300a6">
 
 ------
 

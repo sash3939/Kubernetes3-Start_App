@@ -71,6 +71,7 @@
 Затем **microk8s kubectl apply -f multitool-app.yaml**
 
 <img width="356" alt="Add pod for multitool" src="https://github.com/user-attachments/assets/5e0f0055-e002-4325-9874-916f78c91aeb">
+---
 
 <img width="520" alt="Access to app" src="https://github.com/user-attachments/assets/0a492f14-a0f7-477f-bffa-e1f197b093ec">
 

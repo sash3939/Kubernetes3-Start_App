@@ -80,9 +80,22 @@
 ### Задание 2. Создать Deployment и обеспечить старт основного контейнера при выполнении условий
 
 1. Создать Deployment приложения nginx и обеспечить старт контейнера только после того, как будет запущен сервис этого приложения.
+
+[deployment-init.yaml](https://github.com/sash3939/Kubernetes3-Start_App/blob/main/deployment-init.yaml)
+
 2. Убедиться, что nginx не стартует. В качестве Init-контейнера взять busybox.
+
+<img width="437" alt="Add deployment-init" src="https://github.com/user-attachments/assets/e982363b-ca64-4e1a-b9e7-6aa5c530ca26">
+
 3. Создать и запустить Service. Убедиться, что Init запустился.
+
+[nginx-svc.yaml](https://github.com/sash3939/Kubernetes3-Start_App/blob/main/nginx-svc.yaml)
+
+<img width="447" alt="nginx-svc" src="https://github.com/user-attachments/assets/a46116bf-2200-49f8-b71a-ea65c16b2d18">
+
 4. Продемонстрировать состояние пода до и после запуска сервиса.
+
+<img width="384" alt="Init started pod running" src="https://github.com/user-attachments/assets/53ab4a6f-df8a-41d8-9787-726240404863">
 
 ------
 
